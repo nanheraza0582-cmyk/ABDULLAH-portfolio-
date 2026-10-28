@@ -26,3 +26,10 @@ Note: FormSubmit is a third-party service. Its first-use email activation is req
 
 ## Before publishing
 The work cards are designed visual concepts, not verified client videos. Replace them with your actual video links or clips when ready. The profile claims use the details supplied: 2 years, 10+ people, ₹1,000 average project value, and ₹3,000 highest project.
+
+
+## Scroll-driven process upgrade
+This version adds an animated editing-story section. As visitors scroll, the visual evolves through raw footage, timeline editing, color finishing, and final export. It is built with HTML/CSS/JavaScript and works on GitHub Pages without a build step. The process scene is a stylized illustration, not a literal screen recording of VN/CapCut.
+
+
+Premium scroll-story update: the editing-process section now uses a tall scroll track with a sticky scene, four scroll chapters, animated timeline states, and a lightweight ambient particle network. No build step or external JavaScript library is required.
